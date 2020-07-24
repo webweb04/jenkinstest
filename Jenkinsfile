@@ -10,9 +10,9 @@ stage('Build'){
     echo "Archive build output"
 }
 stage('Test'){
-    sh "sh ./nametest.sh > textlog.txt"
+    sh "sh ./nametest.sh >textlog.txt"
     sh "diff testlog.txt reflog.txt"
-    sh "diff testlog.txt reflog.txt > diff.txt"
+    sh "diff testlog.txt reflog.txt >diff.txt"
     sh "cp diff.txt diff.sh"
     archiveArtifacts artifacts:'*.sh',excludes:'*.md'
     archiveArtifacts artifacts:'output/*.txt',excludes:'output/*.md'
