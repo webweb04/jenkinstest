@@ -18,7 +18,4 @@ stage('Test'){
     archiveArtifacts artifacts:'output/*.txt',excludes:'output/*.md'
     sh "cat diff.txt"
 }
-stage('Check'){
-    sh "sh ./checkempty.sh"
-}
 }
