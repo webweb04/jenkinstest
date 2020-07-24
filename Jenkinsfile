@@ -19,6 +19,6 @@ stage('Test'){
     sh "cat diff.txt"
 }
 stage('Check'){
-    sh "sh checkempty.sh"
+    sh "sh ./checkempty.sh"
 }
 }
