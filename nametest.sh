@@ -1,3 +1,3 @@
-def username = 'Jenkins'
-echo 'Hello Mr. ${username}'
-echo "I said, Hello Mr. ${username}"
+#! /bin/sh
+
+echo "I said, Hello Mr. Jenkins"
