@@ -1,8 +1,8 @@
 #! /bin/sh
 
-if test -s diff.txt; then
-        cat diff.txt
-        TestFail_abnormal
+if [-s diff.txt]
+then
+        echo "Test Failed"
 else
         echo "Test Case Pass, result expected"
 fi
