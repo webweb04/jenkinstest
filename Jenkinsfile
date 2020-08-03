@@ -12,10 +12,5 @@ stage('Build'){
 stage('Test'){
     sh "sh ./nametest.sh >testlog.txt"
     sh "diff testlog.txt reflog.txt"
-    sh "diff testlog.txt reflog.txt >diff.txt"
-    sh "cp diff.txt diff.sh"
-    archiveArtifacts artifacts:'*.sh',excludes:'*.md'
-    archiveArtifacts artifacts:'output/*.txt',excludes:'output/*.md'
-    sh "cat diff.txt"
 }
 }
