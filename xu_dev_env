@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T08:16:23.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wtFEhaQNWKuiyAAoae1r" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:16:43.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zdE3Tc4uUo9WclLsbgxB" version="13.6.10" type="github">
   <diagram id="ocZ5h0guGlENIMr7Fabp" name="Page-1">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
         <mxCell id="JOekYffaHJvAfso67jmj-31" value="&lt;font style=&quot;font-size: 24px&quot;&gt;What is the advantage/disadvantage for this tool?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="930" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;In the interview sometimes it&#39;s tool oriented, &lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;someone do better on this than me.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;In the interview sometimes it&#39;s tool/technology oriented, &lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;someone do better on this than me.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1020" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-34" value="&lt;span style=&quot;font-size: 24px&quot;&gt;When working it&#39;s problems/goals oriented&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
