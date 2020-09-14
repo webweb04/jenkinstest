@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T08:03:19.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="a2aCvRxY0EafIV6wxuXT" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:16:23.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wtFEhaQNWKuiyAAoae1r" version="13.6.10" type="github">
   <diagram id="ocZ5h0guGlENIMr7Fabp" name="Page-1">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="JOekYffaHJvAfso67jmj-7" value="Problems/goals/targets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="730" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-9" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-9" value="Technologys" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="435" y="646" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-11" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
@@ -154,7 +154,7 @@
         <mxCell id="JOekYffaHJvAfso67jmj-13" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="465" y="676" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-14" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-14" value="Technologys" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="475" y="686" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-15" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
@@ -208,16 +208,16 @@
         <mxCell id="JOekYffaHJvAfso67jmj-24" value="&lt;b&gt;When we are working&lt;br&gt;It&#39;s problems/goals/targets/tasks oriented,&lt;/b&gt; we select tools for specified problems/goals/targets/tasks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="780" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-25" value="Tools" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-25" value="Technologies" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="505" y="716" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-26" value="Tool A" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="110" y="840" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-27" value="Tool B" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-27" value="Technology A" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="110" y="950" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-28" value="Tool C" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+        <mxCell id="JOekYffaHJvAfso67jmj-28" value="Tool B" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="110" y="1059" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-30" value="&lt;font style=&quot;font-size: 24px&quot;&gt;What does this tool do?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -231,12 +231,6 @@
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-34" value="&lt;span style=&quot;font-size: 24px&quot;&gt;When working it&#39;s problems/goals oriented&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="610" width="380" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JOekYffaHJvAfso67jmj-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="950" as="sourcePoint" />
-            <mxPoint x="430" y="900" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JOekYffaHJvAfso67jmj-44" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="238" y="865" width="40" height="20" as="geometry" />
