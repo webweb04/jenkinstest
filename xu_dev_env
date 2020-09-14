@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T02:21:41.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="jrmRdLzLYLNuvJeOZKqE" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T02:27:34.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2KlGvhCquVO77uBgen-H" version="13.6.10" type="github">
   <diagram id="ocZ5h0guGlENIMr7Fabp" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,93 @@
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-5" value="生产环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="70" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-8" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-16">
+          <mxGeometry width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-7" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-8">
+          <mxGeometry y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-8">
+          <mxGeometry x="24" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-8">
+          <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="296" y="70" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-18" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-17">
+          <mxGeometry width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-19" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-18">
+          <mxGeometry y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-18">
+          <mxGeometry x="24" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-18">
+          <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="536" y="70" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-23" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-22">
+          <mxGeometry width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-24" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
+          <mxGeometry y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
+          <mxGeometry x="24" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
+          <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="220" width="88" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-35">
+          <mxGeometry y="10" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-35">
+          <mxGeometry x="25" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;单库单表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-35">
+          <mxGeometry x="18.5" y="50" width="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="296" y="220" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-37" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-36">
+          <mxGeometry width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-38" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
+          <mxGeometry y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-39" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
+          <mxGeometry x="24" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
+          <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="536" y="224" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-42" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-41">
+          <mxGeometry width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-43" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
+          <mxGeometry y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33FF33;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
+          <mxGeometry x="24" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
+          <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
