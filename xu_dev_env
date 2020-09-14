@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T02:48:36.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ibpJBCc2b4wSWeNRxYRu" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T02:49:26.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="VE7pwVIe2WJAA6Aa_d79" version="13.6.10" type="github">
   <diagram id="ocZ5h0guGlENIMr7Fabp" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,10 +47,10 @@
           <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="70" width="108" height="90" as="geometry" />
+          <mxGeometry x="414" y="70" width="108" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-23" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-22">
-          <mxGeometry width="108" height="90" as="geometry" />
+          <mxGeometry width="108" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-24" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
           <mxGeometry y="30" width="108" height="60" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
           <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-54" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;TEG CDB&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-23">
+          <mxGeometry x="9" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="220" width="88" height="98" as="geometry" />
@@ -74,10 +77,10 @@
           <mxGeometry x="18.5" y="50" width="41.5" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="296" y="220" width="108" height="90" as="geometry" />
+          <mxGeometry x="296" y="220" width="108" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-37" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-36">
-          <mxGeometry width="108" height="90" as="geometry" />
+          <mxGeometry width="108" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-38" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
           <mxGeometry y="30" width="108" height="60" as="geometry" />
@@ -88,11 +91,14 @@
         <mxCell id="IG-WN7zDIGw74WsLHRhF-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
           <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-53" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;自建Mysql&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-37">
+          <mxGeometry y="80" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="224" width="108" height="90" as="geometry" />
+          <mxGeometry x="414" y="224" width="108" height="96" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-42" value="" style="group" vertex="1" connectable="0" parent="IG-WN7zDIGw74WsLHRhF-41">
-          <mxGeometry width="108" height="90" as="geometry" />
+          <mxGeometry width="108" height="96" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-43" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
           <mxGeometry y="30" width="108" height="60" as="geometry" />
@@ -103,11 +109,17 @@
         <mxCell id="IG-WN7zDIGw74WsLHRhF-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;分库分表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
           <mxGeometry x="10" y="28" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-55" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;TEG CDB&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IG-WN7zDIGw74WsLHRhF-42">
+          <mxGeometry y="76" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;原来的&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;普通&lt;br&gt;环境&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="102" y="99" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IG-WN7zDIGw74WsLHRhF-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;徐大伟搞的&lt;br&gt;二逼&lt;br&gt;环境&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IG-WN7zDIGw74WsLHRhF-52" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;自建Mysql&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
